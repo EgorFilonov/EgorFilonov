@@ -1,5 +1,23 @@
 ## Hi there 👋
+## 👋 Hi there, I'm Egor
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Python+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=EgorFilonov&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=EgorFilonov&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorFilonov&theme=dark&hide_border=true&layout=compact)
+
+### 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник)
+
+![Profile views](https://komarev.com/ghpvc/?username=EgorFilonov&color=blue&style=flat-square)
 
 
 ## 📫 Как со мной связаться
