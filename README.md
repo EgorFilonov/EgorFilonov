@@ -1,13 +1,16 @@
-## Hi there 👋
-## 👋 Hi there, I'm Egor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=600&lines=Python+Developer;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 👩‍💻 Обо мне
+
+Я начинающий Python-разработчик
+
+С мая 2025 года по май 2026 я изучал Python-разработку на курсах **Яндекс Практикум**. В настоящий момент мое обучение на курсе завершено, и я продолжаю развиваться в этом направлении.
+
+- 📚 Завершил курсы по Python-разработке в Яндекс Практикуме
+- ⚡ Постоянно улучшаю свои навыки и изучаю новые технологии
+- 🐍 Пишу чистый и понятный код
+- 🚀 В поиске интересных проектов и возможностей для роста
+---
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=EgorFilonov&show_icons=true&theme=dark&hide_border=true)
