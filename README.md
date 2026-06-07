@@ -2,7 +2,7 @@
 
 Я начинающий Python-разработчик
 
-С мая 2025 года по май 2026 я изучал Python-разработку на курсах **Яндекс Практикум**. В настоящий момент мое обучение на курсе завершено, и я продолжаю развиваться в этом направлении.
+С мая 2025 года по май 2026 я изучал Python-разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено, и я продолжаю развиваться в этом направлении.
 
 - 📚 Завершил курсы по Python-разработке в Яндекс Практикуме
 - ⚡ Постоянно улучшаю свои навыки и изучаю новые технологии
@@ -26,10 +26,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=EgorFilonov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=EgorFilonov&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EgorFilonov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
