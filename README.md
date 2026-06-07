@@ -12,12 +12,6 @@
 - 🚀 В поиске интересных проектов и возможностей для роста
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=EgorFilonov&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EgorFilonov&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgorFilonov&theme=dark&hide_border=true&layout=compact)
-
-
 ## 📫 Как со мной связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorfilonovb)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.filonov.20171@gmail.com)
