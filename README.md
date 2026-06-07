@@ -37,5 +37,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egor.filonov.20171@gmail.com)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=EgorFilonov&color=blue&style=flat-square)
